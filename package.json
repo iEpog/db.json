@@ -1,0 +1,40 @@
+{
+  "name": "db.simple",
+  "version": "0.0.1",
+  "description": "Simple JSON Database. Easy to Use and Very Simple",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iEpog/db.json.git"
+  },
+  "keywords": [
+    "example-db",
+    "data",
+    "base",
+    "js.db",
+    "db.json",
+    "dbjson",
+    "json-database",
+    "json",
+    "database",
+    "easy",
+    "simple",
+    "db",
+    "db.js",
+    "iepog",
+    "epog",
+    "veritabanı",
+    "simple-db",
+    "easy-db",
+    "db-json"
+  ],
+  "author": "Epog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iEpog/db.json/issues"
+  },
+  "homepage": "https://github.com/iEpog/db.json#readme"
+}
